@@ -20,7 +20,7 @@ The Wind Farm Cable Routing Problem (WFCRP) is an NP-hard graph-based optimizati
 ## 👥 Authors  
 | Name | Affiliation | Contact |  
 |------|-------------|---------|  
-| **Murilo O. Machado** | Federal University of Mato Grosso do Sul, ICampus Pantanal | [mmbadas@gmail.com ](mailto:mmbadas@gmail.com ) |  
+| **Murilo O. Machado** | Federal University of Mato Grosso do Sul, ICampus Pantanal | [murilo.machado@ufms.br ](mailto:murilo.machado@ufms.br ) |  
 | **Islame F. C. Fernandes** | Federal University of Bahia, Institute of Computing | [islame.felipe@ufba.br](mailto:islame.felipe@ufba.br) |  
 | **Silvia M. D. M. Maia** | Federal University of Rio Grande do Norte | [silvia@dimap.ufrn.br ](mailto:silvia@dimap.ufrn.br ) |
 
