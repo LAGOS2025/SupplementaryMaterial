@@ -39,16 +39,4 @@ The code directory contains the code that implements the Path Relinking algorith
 This code  only requires toobox to handle graphs and allows a dynamic visualization of the exchange of edges that occurred, as shown in the image Figure.png.
 To run the code, simply press F5 in the main.m script. 17 instances were generated to be made available to the reader, however we cannot send the
 instances used in the article. To obtain them, it is necessary to request them from D. Cazzaro, M. Fischetti, M. Fischetti.
-
-## 👥 Authors  
-| Name | Affiliation | Contact |  
-|------|-------------|---------|  
-| **Murilo O. Machado** | Federal University of Mato Grosso do Sul, ICampus Pantanal | [murilo.machado@ufms.br ](mailto:murilo.machado@ufms.br ) |  
-| **Islame F. C. Fernandes** | Federal University of Bahia, Institute of Computing | [islame.felipe@ufba.br](mailto:islame.felipe@ufba.br) |  
-| **Silvia M. D. M. Maia** | Federal University of Rio Grande do Norte | [silvia@dimap.ufrn.br ](mailto:silvia@dimap.ufrn.br ) |
-
-
-## 📧 Contact  
-For questions, contact the lead author: [mailto:murilo.machado@ufms.br ](mailto:murilo.machado@ufms.br).  
-
 ---
