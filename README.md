@@ -49,6 +49,6 @@ instances used in the article. To obtain them, it is necessary to request them f
 
 
 ## 📧 Contact  
-For questions, contact the lead author: [mailto:mmbadas@gmail.com ](mailto:mmbadas@gmail.com).  
+For questions, contact the lead author: [mailto:murilo.machado@ufms.br ](mailto:murilo.machado@ufms.br).  
 
 ---
